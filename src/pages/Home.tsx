@@ -43,7 +43,7 @@ export default function Home() {
                                     <td >{user.username}</td>
                                     <td >{user.email}</td>
                                     <td>
-                                        <button className='bg-primary px-32'>View</button>
+                                        <button className='bg-primary '>View</button>
                                         <button className='bg-secondary'>Edit</button>
                                         <button className='bg-accent'>Delete</button>
                                     </td>
